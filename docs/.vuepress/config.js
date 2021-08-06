@@ -2,6 +2,7 @@ module.exports = {
     title: 'Hello VuePress',
     description: 'my worklog in wisedu',
     base: '/work-log/',	
+    dest: './dist',    // 设置输出目录
     themeConfig: {
         displayAllHeaders: false, // 默认值：false
         nav: [
