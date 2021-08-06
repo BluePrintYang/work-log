@@ -1,0 +1,15 @@
+{
+  "name": "worklog",
+  "version": "1.0.0",
+  "description": "my worklog in wisedu",
+  "main": "index.js",
+  "author": "yanglonglong",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+    "scripts": {
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    }
+}
