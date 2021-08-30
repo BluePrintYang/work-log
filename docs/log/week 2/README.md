@@ -10,8 +10,8 @@
 
 ## 总结
 
-1. [cmd查看进程](12.28.md/#cmd查看进程)
-2. [创建List用Lists.newArrayList()](12.30.md/#创建list)
+1. [cmd查看进程](12.28.md#cmd查看进程)
+2. [创建List用Lists.newArrayList()](12.30.md#创建list)
 3. [hutool工具处理excel](12.30.md#hutool工具处理excel)
 4. [idea TODO](12.30.md#idea-todo)
 
