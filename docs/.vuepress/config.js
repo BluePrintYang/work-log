@@ -237,6 +237,20 @@ module.exports = {
                         {title: '8.27', collapsable: true, path: '/log/week 15/8.27'},
                     ]
                 },
+                {
+                    title: '第十六周',
+                    collapsable: true,
+                    path: '/log/week 16/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 16', collapsable: true, path: '/log/week 16/'},
+                        {title: '8.30', collapsable: true, path: '/log/week 16/8.30'},
+                        {title: '8.31', collapsable: true, path: '/log/week 16/8.31'},
+                        {title: '9.1', collapsable: true, path: '/log/week 16/9.1'},
+                        {title: '9.2', collapsable: true, path: '/log/week 16/9.2'},
+                        {title: '9.3', collapsable: true, path: '/log/week 16/9.3'},
+                    ]
+                },
             ],
 
             // fallback
