@@ -13,4 +13,5 @@
 1. [查看日志 搜索并查看后几行](8.24.md#查看日志搜索并查看后几行)
 2. [获取关注的校园号](8.24.md#获取关注的校园号)
 3. [vuepress部署到GitHub](https://www.cnblogs.com/LHLVS/p/11376732.html#!comments)
+4. [集成pinpoint](8.27.md#集成pinpoint)
 
