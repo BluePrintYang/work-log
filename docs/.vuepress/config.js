@@ -265,6 +265,47 @@ module.exports = {
                         {title: '9.10', collapsable: true, path: '/log/week 17/9.10'},
                     ]
                 },
+                {
+                    title: '第十八周',
+                    collapsable: true,
+                    path: '/log/week 18/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 18', collapsable: true, path: '/log/week 18/'},
+                        {title: '9.13', collapsable: true, path: '/log/week 18/9.13'},
+                        {title: '9.14', collapsable: true, path: '/log/week 18/9.14'},
+                        {title: '9.15', collapsable: true, path: '/log/week 18/9.15'},
+                        {title: '9.16', collapsable: true, path: '/log/week 18/9.16'},
+                        {title: '9.17', collapsable: true, path: '/log/week 18/9.17'},
+                        {title: '9.18', collapsable: true, path: '/log/week 18/9.18'},
+                    ]
+                },
+                {
+                    title: '第十九周',
+                    collapsable: true,
+                    path: '/log/week 19/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 19', collapsable: true, path: '/log/week 19/'},
+                        {title: '9.22', collapsable: true, path: '/log/week 19/9.22'},
+                        {title: '9.23', collapsable: true, path: '/log/week 19/9.23'},
+                        {title: '9.24', collapsable: true, path: '/log/week 19/9.24'},
+                    ]
+                },
+                {
+                    title: '第二十周',
+                    collapsable: true,
+                    path: '/log/week 20/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 20', collapsable: true, path: '/log/week 20/'},
+                        {title: '9.26', collapsable: true, path: '/log/week 20/9.26'},
+                        {title: '9.27', collapsable: true, path: '/log/week 20/9.27'},
+                        {title: '9.28', collapsable: true, path: '/log/week 20/9.28'},
+                        {title: '9.29', collapsable: true, path: '/log/week 20/9.29'},
+                        {title: '9.30', collapsable: true, path: '/log/week 20/9.30'},
+                    ]
+                },
             ],
 
             // fallback
