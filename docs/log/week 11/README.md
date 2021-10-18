@@ -12,5 +12,5 @@
 
 ## 总结
 
-1. [mybatis-plus-实现自动填充-createtime-和-updatetime](7.30.md#mybatis-plus-实现自动填充-createtime-和-updatetime)
+1. [mybatis-plus实现自动填充createtime和updatetime](7.30.md#mybatis-plus-实现自动填充-createtime-和-updatetime)
 
