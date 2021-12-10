@@ -415,6 +415,34 @@ module.exports = {
                         {title: '11.26', collapsable: true, path: '/log/week 28/11.26'},
                     ]
                 },
+                {
+                    title: '第二十九周',
+                    collapsable: true,
+                    path: '/log/week 29/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 29', collapsable: true, path: '/log/week 29/'},
+                        {title: '11.29', collapsable: true, path: '/log/week 29/11.29'},
+                        {title: '11.30', collapsable: true, path: '/log/week 29/11.30'},
+                        {title: '12.1', collapsable: true, path: '/log/week 29/12.1'},
+                        {title: '12.2', collapsable: true, path: '/log/week 29/12.2'},
+                        {title: '12.3', collapsable: true, path: '/log/week 29/12.3'},
+                    ]
+                },
+                {
+                    title: '第三十周',
+                    collapsable: true,
+                    path: '/log/week 30/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 30', collapsable: true, path: '/log/week 30/'},
+                        {title: '12.6', collapsable: true, path: '/log/week 30/12.6'},
+                        {title: '12.7', collapsable: true, path: '/log/week 30/12.7'},
+                        {title: '12.8', collapsable: true, path: '/log/week 30/12.8'},
+                        {title: '12.9', collapsable: true, path: '/log/week 30/12.9'},
+                        {title: '12.10', collapsable: true, path: '/log/week 30/12.10'},
+                    ]
+                },
             ],
 
             // fallback
