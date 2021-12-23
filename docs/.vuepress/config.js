@@ -443,6 +443,34 @@ module.exports = {
                         {title: '12.10', collapsable: true, path: '/log/week 30/12.10'},
                     ]
                 },
+                {
+                    title: '第三十一周',
+                    collapsable: true,
+                    path: '/log/week 31/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 31', collapsable: true, path: '/log/week 31/'},
+                        {title: '12.13', collapsable: true, path: '/log/week 31/12.13'},
+                        {title: '12.14', collapsable: true, path: '/log/week 31/12.14'},
+                        {title: '12.15', collapsable: true, path: '/log/week 31/12.15'},
+                        {title: '12.16', collapsable: true, path: '/log/week 31/12.16'},
+                        {title: '12.17', collapsable: true, path: '/log/week 31/12.17'},
+                    ]
+                },
+                {
+                    title: '第三十二周',
+                    collapsable: true,
+                    path: '/log/week 32/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 32', collapsable: true, path: '/log/week 32/'},
+                        {title: '12.20', collapsable: true, path: '/log/week 32/12.20'},
+                        {title: '12.21', collapsable: true, path: '/log/week 32/12.21'},
+                        {title: '12.22', collapsable: true, path: '/log/week 32/12.22'},
+                        {title: '12.23', collapsable: true, path: '/log/week 32/12.23'},
+                        {title: '12.24', collapsable: true, path: '/log/week 32/12.24'},
+                    ]
+                },
             ],
 
             // fallback

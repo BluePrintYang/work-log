@@ -10,5 +10,6 @@
 
 ## 总结
 
-1. 
+1. [通过 Telnet 命令进行服务治理](https://dubbo.apache.org/zh/docs/v3.0/references/telnet/)
+2. [Spring-Test单元测试](https://blog.csdn.net/u013068377/article/details/78602463)
 
