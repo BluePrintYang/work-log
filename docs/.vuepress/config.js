@@ -8,6 +8,7 @@ module.exports = {
             {text: 'Home', link: '/'},
             {text: 'Guide', link: '/guide/'},
             {text: 'Log', link: '/log/'},
+            {text: 'Version', link: '/version/'},
             {text: 'External', link: 'https://baidu.com'},
             {
                 text: 'My Place',
@@ -31,6 +32,21 @@ module.exports = {
                     collapsable: true,
                     sidebarDepth: 0,    // 可选的, 默认值是 1
                     children: ['one', 'two']
+                }
+            ],
+
+            '/version/': [
+                {
+                    title: 'README',
+                    collapsable: false,
+                    sidebarDepth: 1,    // 可选的, 默认值是 1
+                    children: ['']
+                },
+                {
+                    title: 'content',
+                    collapsable: true,
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: ['sizheng', '9.2.0']
                 }
             ],
 
@@ -469,6 +485,77 @@ module.exports = {
                         {title: '12.22', collapsable: true, path: '/log/week 32/12.22'},
                         {title: '12.23', collapsable: true, path: '/log/week 32/12.23'},
                         {title: '12.24', collapsable: true, path: '/log/week 32/12.24'},
+                    ]
+                },
+                {
+                    title: '第三十三周',
+                    collapsable: true,
+                    path: '/log/week 33/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 33', collapsable: true, path: '/log/week 33/'},
+                        {title: '12.27', collapsable: true, path: '/log/week 33/12.27'},
+                        {title: '12.28', collapsable: true, path: '/log/week 33/12.28'},
+                        {title: '12.29', collapsable: true, path: '/log/week 33/12.29'},
+                        {title: '12.30', collapsable: true, path: '/log/week 33/12.30'},
+                        {title: '12.31', collapsable: true, path: '/log/week 33/12.31'},
+                    ]
+                },
+                {
+                    title: '第三十四周',
+                    collapsable: true,
+                    path: '/log/week 34/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 34', collapsable: true, path: '/log/week 34/'},
+                        {title: '1.4', collapsable: true, path: '/log/week 34/1.4'},
+                        {title: '1.5', collapsable: true, path: '/log/week 34/1.5'},
+                        {title: '1.6', collapsable: true, path: '/log/week 34/1.6'},
+                        {title: '1.7', collapsable: true, path: '/log/week 34/1.7'},
+                    ]
+                },
+                {
+                    title: '第三十五周',
+                    collapsable: true,
+                    path: '/log/week 35/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 35', collapsable: true, path: '/log/week 35/'},
+                        {title: '1.10', collapsable: true, path: '/log/week 35/1.10'},
+                        {title: '1.11', collapsable: true, path: '/log/week 35/1.11'},
+                        {title: '1.12', collapsable: true, path: '/log/week 35/1.12'},
+                        {title: '1.13', collapsable: true, path: '/log/week 35/1.13'},
+                        {title: '1.14', collapsable: true, path: '/log/week 35/1.14'},
+                    ]
+                },
+                {
+                    title: '第三十六周',
+                    collapsable: true,
+                    path: '/log/week 36/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 36', collapsable: true, path: '/log/week 36/'},
+                        {title: '1.17', collapsable: true, path: '/log/week 36/1.17'},
+                        {title: '1.18', collapsable: true, path: '/log/week 36/1.18'},
+                        {title: '1.19', collapsable: true, path: '/log/week 36/1.19'},
+                        {title: '1.20', collapsable: true, path: '/log/week 36/1.20'},
+                        {title: '1.21', collapsable: true, path: '/log/week 36/1.21'},
+                    ]
+                },
+                {
+                    title: '第三十七周',
+                    collapsable: true,
+                    path: '/log/week 37/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 37', collapsable: true, path: '/log/week 37/'},
+                        {title: '1.24', collapsable: true, path: '/log/week 37/1.24'},
+                        {title: '1.25', collapsable: true, path: '/log/week 37/1.25'},
+                        {title: '1.26', collapsable: true, path: '/log/week 37/1.26'},
+                        {title: '1.27', collapsable: true, path: '/log/week 37/1.27'},
+                        {title: '1.28', collapsable: true, path: '/log/week 37/1.28'},
+                        {title: '1.29', collapsable: true, path: '/log/week 37/1.29'},
+                        {title: '1.30', collapsable: true, path: '/log/week 37/1.30'},
                     ]
                 },
             ],
