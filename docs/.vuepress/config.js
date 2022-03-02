@@ -558,6 +558,62 @@ module.exports = {
                         {title: '1.30', collapsable: true, path: '/log/week 37/1.30'},
                     ]
                 },
+                {
+                    title: '第三十八周',
+                    collapsable: true,
+                    path: '/log/week 38/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 38', collapsable: true, path: '/log/week 38/'},
+                        {title: '2.7', collapsable: true, path: '/log/week 38/2.7'},
+                        {title: '2.8', collapsable: true, path: '/log/week 38/2.8'},
+                        {title: '2.9', collapsable: true, path: '/log/week 38/2.9'},
+                        {title: '2.10', collapsable: true, path: '/log/week 38/2.10'},
+                        {title: '2.11', collapsable: true, path: '/log/week 38/2.11'},
+                    ]
+                },
+                {
+                    title: '第三十九周',
+                    collapsable: true,
+                    path: '/log/week 39/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 38', collapsable: true, path: '/log/week 39/'},
+                        {title: '2.14', collapsable: true, path: '/log/week 39/2.14'},
+                        {title: '2.15', collapsable: true, path: '/log/week 39/2.15'},
+                        {title: '2.16', collapsable: true, path: '/log/week 39/2.16'},
+                        {title: '2.17', collapsable: true, path: '/log/week 39/2.17'},
+                        {title: '2.18', collapsable: true, path: '/log/week 39/2.18'},
+                    ]
+                },
+                {
+                    title: '第四十周',
+                    collapsable: true,
+                    path: '/log/week 40/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 40', collapsable: true, path: '/log/week 40/'},
+                        {title: '2.21', collapsable: true, path: '/log/week 40/2.21'},
+                        {title: '2.22', collapsable: true, path: '/log/week 40/2.22'},
+                        {title: '2.23', collapsable: true, path: '/log/week 40/2.23'},
+                        {title: '2.24', collapsable: true, path: '/log/week 40/2.24'},
+                        {title: '2.25', collapsable: true, path: '/log/week 40/2.25'},
+                    ]
+                },
+                {
+                    title: '第四十一周',
+                    collapsable: true,
+                    path: '/log/week 41/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 41', collapsable: true, path: '/log/week 41/'},
+                        {title: '2.28', collapsable: true, path: '/log/week 41/2.28'},
+                        {title: '3.1', collapsable: true, path: '/log/week 41/3.1'},
+                        {title: '3.2', collapsable: true, path: '/log/week 41/3.2'},
+                        {title: '3.3', collapsable: true, path: '/log/week 41/3.3'},
+                        {title: '3.4', collapsable: true, path: '/log/week 41/3.4'},
+                    ]
+                },
             ],
 
             // fallback
