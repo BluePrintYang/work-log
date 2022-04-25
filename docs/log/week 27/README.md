@@ -10,6 +10,6 @@
 
 ## 总结
 
-1. [tinyid 分布式id生成重复问题](11.17.md#tinyid 分布式id生成重复问题)
+1. [tinyid 分布式id生成重复问题](11.17.md#tinyid分布式id生成重复问题)
 2. [Charles抓包过滤](11.17.md#Charles抓包过滤)
 

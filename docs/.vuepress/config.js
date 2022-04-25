@@ -46,7 +46,7 @@ module.exports = {
                     title: 'content',
                     collapsable: true,
                     sidebarDepth: 0,    // 可选的, 默认值是 1
-                    children: ['sizheng', '9.2.0']
+                    children: ['sizheng', '9.2.0', '9.2.0-2', 'springbootdemo', '常用小技巧']
                 }
             ],
 
@@ -669,6 +669,61 @@ module.exports = {
                         {title: '3.31', collapsable: true, path: '/log/week 45/3.31'},
                         {title: '4.1', collapsable: true, path: '/log/week 45/4.1'},
                         {title: '4.2', collapsable: true, path: '/log/week 45/4.2'},
+                    ]
+                },
+                {
+                    title: '第四十六周',
+                    collapsable: true,
+                    path: '/log/week 46/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 46', collapsable: true, path: '/log/week 46/'},
+                        {title: '4.6', collapsable: true, path: '/log/week 46/4.6'},
+                        {title: '4.7', collapsable: true, path: '/log/week 46/4.7'},
+                        {title: '4.8', collapsable: true, path: '/log/week 46/4.8'},
+                    ]
+                },
+                {
+                    title: '第四十七周',
+                    collapsable: true,
+                    path: '/log/week 47/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 47', collapsable: true, path: '/log/week 47/'},
+                        {title: '4.11', collapsable: true, path: '/log/week 47/4.11'},
+                        {title: '4.12', collapsable: true, path: '/log/week 47/4.12'},
+                        {title: '4.13', collapsable: true, path: '/log/week 47/4.13'},
+                        {title: '4.14', collapsable: true, path: '/log/week 47/4.14'},
+                        {title: '4.15', collapsable: true, path: '/log/week 47/4.15'},
+                    ]
+                },
+                {
+                    title: '第四十八周',
+                    collapsable: true,
+                    path: '/log/week 48/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 48', collapsable: true, path: '/log/week 48/'},
+                        {title: '4.18', collapsable: true, path: '/log/week 48/4.18'},
+                        {title: '4.19', collapsable: true, path: '/log/week 48/4.19'},
+                        {title: '4.20', collapsable: true, path: '/log/week 48/4.20'},
+                        {title: '4.21', collapsable: true, path: '/log/week 48/4.21'},
+                        {title: '4.22', collapsable: true, path: '/log/week 48/4.22'},
+                    ]
+                },
+                {
+                    title: '第四十九周',
+                    collapsable: true,
+                    path: '/log/week 49/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 49', collapsable: true, path: '/log/week 49/'},
+                        {title: '4.24', collapsable: true, path: '/log/week 49/4.24'},
+                        {title: '4.25', collapsable: true, path: '/log/week 49/4.25'},
+                        {title: '4.26', collapsable: true, path: '/log/week 49/4.26'},
+                        {title: '4.27', collapsable: true, path: '/log/week 49/4.27'},
+                        {title: '4.28', collapsable: true, path: '/log/week 49/4.28'},
+                        {title: '4.29', collapsable: true, path: '/log/week 49/4.29'},
                     ]
                 },
             ],

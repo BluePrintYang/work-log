@@ -12,7 +12,7 @@
 
 ## 总结
 
-1. [lis排序与int类型除法保留两位小数](3.9.md#list排序)
+1. [list排序与int类型除法保留两位小数](3.9.md#list排序)
 
 2. [count(distinct)与group by区别](3.10.md#count-distinct-与group-by区别)
 3. [gitbook相关](3.10.md#gitbook相关)
