@@ -726,6 +726,60 @@ module.exports = {
                         {title: '4.29', collapsable: true, path: '/log/week 49/4.29'},
                     ]
                 },
+                {
+                    title: '第五十周',
+                    collapsable: true,
+                    path: '/log/week 50/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 50', collapsable: true, path: '/log/week 50/'},
+                        {title: '5.5', collapsable: true, path: '/log/week 50/5.5'},
+                        {title: '5.6', collapsable: true, path: '/log/week 50/5.6'},
+                        {title: '5.7', collapsable: true, path: '/log/week 50/5.7'},
+                    ]
+                },
+                {
+                    title: '第五十一周',
+                    collapsable: true,
+                    path: '/log/week 51/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 51', collapsable: true, path: '/log/week 51/'},
+                        {title: '5.9', collapsable: true, path: '/log/week 51/5.9'},
+                        {title: '5.10', collapsable: true, path: '/log/week 51/5.10'},
+                        {title: '5.11', collapsable: true, path: '/log/week 51/5.11'},
+                        {title: '5.12', collapsable: true, path: '/log/week 51/5.12'},
+                        {title: '5.13', collapsable: true, path: '/log/week 51/5.13'},
+                    ]
+                },
+                {
+                    title: '第五十二周',
+                    collapsable: true,
+                    path: '/log/week 52/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 52', collapsable: true, path: '/log/week 52/'},
+                        {title: '5.16', collapsable: true, path: '/log/week 52/5.16'},
+                        {title: '5.17', collapsable: true, path: '/log/week 52/5.17'},
+                        {title: '5.18', collapsable: true, path: '/log/week 52/5.18'},
+                        {title: '5.19', collapsable: true, path: '/log/week 52/5.19'},
+                        {title: '5.20', collapsable: true, path: '/log/week 52/5.20'},
+                    ]
+                },
+                {
+                    title: '第五十三周',
+                    collapsable: true,
+                    path: '/log/week 53/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 53', collapsable: true, path: '/log/week 53/'},
+                        {title: '5.23', collapsable: true, path: '/log/week 53/5.23'},
+                        {title: '5.24', collapsable: true, path: '/log/week 53/5.24'},
+                        {title: '5.25', collapsable: true, path: '/log/week 53/5.25'},
+                        {title: '5.26', collapsable: true, path: '/log/week 53/5.26'},
+                        {title: '5.27', collapsable: true, path: '/log/week 53/5.27'},
+                    ]
+                },
             ],
 
             // fallback
