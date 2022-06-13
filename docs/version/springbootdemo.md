@@ -4,7 +4,7 @@
 
 模块依赖关系
 
-![模块依赖](https://gitee.com/yonglone/PicHub/raw/master/模块依赖.png)
+![模块依赖](https://raw.githubusercontent.com/BluePrintYang/PicHub/master/work-log/%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96.png)
 
 mapstruct 放在biz中
 

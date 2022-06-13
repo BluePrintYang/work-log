@@ -780,6 +780,47 @@ module.exports = {
                         {title: '5.27', collapsable: true, path: '/log/week 53/5.27'},
                     ]
                 },
+                {
+                    title: '第五十四周',
+                    collapsable: true,
+                    path: '/log/week 54/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 54', collapsable: true, path: '/log/week 54/'},
+                        {title: '5.30', collapsable: true, path: '/log/week 54/5.30'},
+                        {title: '5.31', collapsable: true, path: '/log/week 54/5.31'},
+                        {title: '6.1', collapsable: true, path: '/log/week 54/6.1'},
+                        {title: '6.2', collapsable: true, path: '/log/week 54/6.2'},
+                    ]
+                },
+                {
+                    title: '第五十五周',
+                    collapsable: true,
+                    path: '/log/week 55/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 55', collapsable: true, path: '/log/week 55/'},
+                        {title: '6.6', collapsable: true, path: '/log/week 55/6.6'},
+                        {title: '6.7', collapsable: true, path: '/log/week 55/6.7'},
+                        {title: '6.8', collapsable: true, path: '/log/week 55/6.8'},
+                        {title: '6.9', collapsable: true, path: '/log/week 55/6.9'},
+                        {title: '6.10', collapsable: true, path: '/log/week 55/6.10'},
+                    ]
+                },
+                {
+                    title: '第五十六周',
+                    collapsable: true,
+                    path: '/log/week 56/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 56', collapsable: true, path: '/log/week 56/'},
+                        {title: '6.13', collapsable: true, path: '/log/week 56/6.13'},
+                        {title: '6.14', collapsable: true, path: '/log/week 56/6.14'},
+                        {title: '6.15', collapsable: true, path: '/log/week 56/6.15'},
+                        {title: '6.16', collapsable: true, path: '/log/week 56/6.16'},
+                        {title: '6.17', collapsable: true, path: '/log/week 56/6.17'},
+                    ]
+                },
             ],
 
             // fallback
