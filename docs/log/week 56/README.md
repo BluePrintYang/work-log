@@ -1,6 +1,12 @@
 #  第五十六周
 
+>提醒开发
 >
+>关于on duplicate key update性能问题
+>
+>lombok 继承
+>
+>mock 嵌套对象校验
 
 - [6.13](6.13.md)
 - [6.14](6.14.md)

@@ -46,7 +46,7 @@ module.exports = {
                     title: 'content',
                     collapsable: true,
                     sidebarDepth: 0,    // 可选的, 默认值是 1
-                    children: ['sizheng', '9.2.0', '9.2.0-2', 'springbootdemo', '常用小技巧']
+                    children: ['sizheng', '9.2.0', '9.2.0-2', 'springbootdemo', '常用小技巧','群组','上线整理']
                 }
             ],
 
@@ -819,6 +819,76 @@ module.exports = {
                         {title: '6.15', collapsable: true, path: '/log/week 56/6.15'},
                         {title: '6.16', collapsable: true, path: '/log/week 56/6.16'},
                         {title: '6.17', collapsable: true, path: '/log/week 56/6.17'},
+                    ]
+                },
+                {
+                    title: '第五十七周',
+                    collapsable: true,
+                    path: '/log/week 57/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 57', collapsable: true, path: '/log/week 57/'},
+                        {title: '6.20', collapsable: true, path: '/log/week 57/6.20'},
+                        {title: '6.21', collapsable: true, path: '/log/week 57/6.21'},
+                        {title: '6.22', collapsable: true, path: '/log/week 57/6.22'},
+                        {title: '6.23', collapsable: true, path: '/log/week 57/6.23'},
+                        {title: '6.24', collapsable: true, path: '/log/week 57/6.24'},
+                    ]
+                },
+                {
+                    title: '第五十八周',
+                    collapsable: true,
+                    path: '/log/week 58/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 58', collapsable: true, path: '/log/week 58/'},
+                        {title: '6.27', collapsable: true, path: '/log/week 58/6.27'},
+                        {title: '6.28', collapsable: true, path: '/log/week 58/6.28'},
+                        {title: '6.29', collapsable: true, path: '/log/week 58/6.29'},
+                        {title: '6.30', collapsable: true, path: '/log/week 58/6.30'},
+                        {title: '7.1', collapsable: true, path: '/log/week 58/7.1'},
+                    ]
+                },
+                {
+                    title: '第五十九周',
+                    collapsable: true,
+                    path: '/log/week 59/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 59', collapsable: true, path: '/log/week 59/'},
+                        {title: '7.4', collapsable: true, path: '/log/week 59/7.4'},
+                        {title: '7.5', collapsable: true, path: '/log/week 59/7.5'},
+                        {title: '7.6', collapsable: true, path: '/log/week 59/7.6'},
+                        {title: '7.7', collapsable: true, path: '/log/week 59/7.7'},
+                        {title: '7.8', collapsable: true, path: '/log/week 59/7.8'},
+                    ]
+                },
+                {
+                    title: '第六十周',
+                    collapsable: true,
+                    path: '/log/week 60/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 60', collapsable: true, path: '/log/week 60/'},
+                        {title: '7.11', collapsable: true, path: '/log/week 60/7.11'},
+                        {title: '7.12', collapsable: true, path: '/log/week 60/7.12'},
+                        {title: '7.13', collapsable: true, path: '/log/week 60/7.13'},
+                        {title: '7.14', collapsable: true, path: '/log/week 60/7.14'},
+                        {title: '7.15', collapsable: true, path: '/log/week 60/7.15'},
+                    ]
+                },
+                {
+                    title: '第六十一周',
+                    collapsable: true,
+                    path: '/log/week 61/',
+                    sidebarDepth: 0,    // 可选的, 默认值是 1
+                    children: [
+                        {title: 'week 61', collapsable: true, path: '/log/week 61/'},
+                        {title: '7.18', collapsable: true, path: '/log/week 61/7.18'},
+                        {title: '7.19', collapsable: true, path: '/log/week 61/7.19'},
+                        {title: '7.20', collapsable: true, path: '/log/week 61/7.20'},
+                        {title: '7.21', collapsable: true, path: '/log/week 61/7.21'},
+                        {title: '7.22', collapsable: true, path: '/log/week 61/7.22'},
                     ]
                 },
             ],
